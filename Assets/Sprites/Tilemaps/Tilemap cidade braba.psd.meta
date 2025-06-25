@@ -1,0 +1,1720 @@
+fileFormatVersion: 2
+guid: 6e25b8f3fa1295d4eb9ef1ba1bc739fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2386963459474587435
+    second: Tilemap cidade braba_0
+  - first:
+      213: -2041947742669437224
+    second: Tilemap cidade braba_1
+  - first:
+      213: 6345868875016862959
+    second: Tilemap cidade braba_2
+  - first:
+      213: -598713880510052466
+    second: Tilemap cidade braba_3
+  - first:
+      213: 5271493126817749154
+    second: Tilemap cidade braba_4
+  - first:
+      213: 8962456347121604256
+    second: Tilemap cidade braba_5
+  - first:
+      213: -6366312702871848832
+    second: Tilemap cidade braba_6
+  - first:
+      213: 791508783380631198
+    second: Tilemap cidade braba_7
+  - first:
+      213: 1482566107194685207
+    second: Tilemap cidade braba_8
+  - first:
+      213: 3301434538772872501
+    second: Tilemap cidade braba_9
+  - first:
+      213: 6719500853403959450
+    second: Tilemap cidade braba_10
+  - first:
+      213: -2006611505221512066
+    second: Tilemap cidade braba_11
+  - first:
+      213: 4550227200418779507
+    second: Tilemap cidade braba_12
+  - first:
+      213: 202123291848166787
+    second: Tilemap cidade braba_13
+  - first:
+      213: -7258425603289642521
+    second: Tilemap cidade braba_14
+  - first:
+      213: 7195795276979702748
+    second: Tilemap cidade braba_15
+  - first:
+      213: -8394748593587680195
+    second: Tilemap cidade braba_16
+  - first:
+      213: 8534659150153417514
+    second: Tilemap cidade braba_17
+  - first:
+      213: -516579376808995654
+    second: Tilemap cidade braba_18
+  - first:
+      213: -1248297482335526612
+    second: Tilemap cidade braba_19
+  - first:
+      213: 6847426698722273915
+    second: Tilemap cidade braba_20
+  - first:
+      213: -1913797828390480349
+    second: Tilemap cidade braba_21
+  - first:
+      213: 3729700145823120970
+    second: Tilemap cidade braba_22
+  - first:
+      213: -7764178999832998236
+    second: Tilemap cidade braba_23
+  - first:
+      213: -4821087189729316768
+    second: Tilemap cidade braba_24
+  - first:
+      213: -1567317036273367379
+    second: Tilemap cidade braba_25
+  - first:
+      213: 7048669341732116825
+    second: Tilemap cidade braba_26
+  - first:
+      213: -2615507326304429292
+    second: Tilemap cidade braba_27
+  - first:
+      213: 9119803732634094454
+    second: Tilemap cidade braba_28
+  - first:
+      213: -1656492937477729231
+    second: Tilemap cidade braba_29
+  - first:
+      213: -6581255979028332255
+    second: Tilemap cidade braba_30
+  - first:
+      213: 6175586582824571169
+    second: Tilemap cidade braba_31
+  - first:
+      213: 8457725303568346489
+    second: Tilemap cidade braba_32
+  - first:
+      213: 7147094306798593665
+    second: Tilemap cidade braba_33
+  - first:
+      213: 5015334829859632326
+    second: Tilemap cidade braba_34
+  - first:
+      213: -2072253544800407536
+    second: Tilemap cidade braba_35
+  - first:
+      213: 4620646083858942334
+    second: Tilemap cidade braba_36
+  - first:
+      213: -2365307121536220009
+    second: Tilemap cidade braba_37
+  - first:
+      213: 1967838932129732229
+    second: Tilemap cidade braba_38
+  - first:
+      213: -375971974672715182
+    second: Tilemap cidade braba_39
+  - first:
+      213: 8612381262137187434
+    second: Tilemap cidade braba_40
+  - first:
+      213: 8377715402016823490
+    second: Tilemap cidade braba_41
+  - first:
+      213: -61355877587007952
+    second: Tilemap cidade braba_42
+  - first:
+      213: 584990694249670950
+    second: Tilemap cidade braba_43
+  - first:
+      213: -647938005760034806
+    second: Tilemap cidade braba_44
+  - first:
+      213: -1305771367419804445
+    second: Tilemap cidade braba_45
+  - first:
+      213: 3845695423309633536
+    second: Tilemap cidade braba_46
+  - first:
+      213: -2924977633410478181
+    second: Tilemap cidade braba_47
+  - first:
+      213: -6522261181432457215
+    second: Tilemap cidade braba_48
+  - first:
+      213: 6442331238831685293
+    second: Tilemap cidade braba_49
+  - first:
+      213: 2253214250914765896
+    second: Tilemap cidade braba_50
+  - first:
+      213: 1359361105843757806
+    second: Tilemap cidade braba_51
+  - first:
+      213: -859797050656169114
+    second: Tilemap cidade braba_52
+  - first:
+      213: -445606460332956241
+    second: Tilemap cidade braba_53
+  - first:
+      213: -5654909413042640381
+    second: Tilemap cidade braba_54
+  - first:
+      213: -8285567579040502188
+    second: Tilemap cidade braba_55
+  - first:
+      213: -497496742971005734
+    second: Tilemap cidade braba_56
+  - first:
+      213: 2546914655596272352
+    second: Tilemap cidade braba_57
+  - first:
+      213: -6946154844716232299
+    second: Tilemap cidade braba_58
+  - first:
+      213: 1370952453145279974
+    second: Tilemap cidade braba_59
+  - first:
+      213: -3733147524828274982
+    second: Tilemap cidade braba_60
+  - first:
+      213: -3757309122934268666
+    second: Tilemap cidade braba_61
+  - first:
+      213: 308673663574373438
+    second: Tilemap cidade braba_62
+  - first:
+      213: 2505863043108539331
+    second: Tilemap cidade braba_63
+  - first:
+      213: -512015947299199428
+    second: Tilemap cidade braba_64
+  - first:
+      213: 7383093919031605622
+    second: Tilemap cidade braba_65
+  - first:
+      213: 1352503297031028680
+    second: Tilemap cidade braba_66
+  - first:
+      213: 8625533303551581185
+    second: Tilemap cidade braba_67
+  - first:
+      213: 7316023632830295349
+    second: Tilemap cidade braba_68
+  - first:
+      213: -6596495142387077720
+    second: Tilemap cidade braba_69
+  - first:
+      213: 7945211065285250577
+    second: Tilemap cidade braba_70
+  - first:
+      213: 1192172763293013579
+    second: Tilemap cidade braba_71
+  - first:
+      213: -3329102623855898935
+    second: Tilemap cidade braba_72
+  - first:
+      213: -2953302395906185946
+    second: Tilemap cidade braba_73
+  - first:
+      213: 1671488127204080016
+    second: Tilemap cidade braba_74
+  - first:
+      213: 8280493899024025254
+    second: Tilemap cidade braba_75
+  - first:
+      213: 616115588838853153
+    second: Tilemap cidade braba_76
+  - first:
+      213: 481112149204012099
+    second: Tilemap cidade braba_77
+  - first:
+      213: 8752119829671774858
+    second: Tilemap cidade braba_78
+  - first:
+      213: 9113436544160607308
+    second: Tilemap cidade braba_79
+  - first:
+      213: -8128486842659326968
+    second: Tilemap cidade braba_80
+  - first:
+      213: 6763709580271236396
+    second: Tilemap cidade braba_81
+  - first:
+      213: -1299024658062074116
+    second: Tilemap cidade braba_82
+  - first:
+      213: -5641384819467882112
+    second: Tilemap cidade braba_83
+  - first:
+      213: 1704317080983236118
+    second: Tilemap cidade braba_84
+  - first:
+      213: 1405151763006951135
+    second: Tilemap cidade braba_85
+  - first:
+      213: 2771015428723790493
+    second: Tilemap cidade braba_86
+  - first:
+      213: -4041329184220932852
+    second: Tilemap cidade braba_87
+  - first:
+      213: 4441234137391682546
+    second: Tilemap cidade braba_88
+  - first:
+      213: -3773391490841436648
+    second: Tilemap cidade braba_89
+  - first:
+      213: -6124413699573150448
+    second: Tilemap cidade braba_90
+  - first:
+      213: -2855628865058303600
+    second: Tilemap cidade braba_91
+  - first:
+      213: 8595119983723809695
+    second: Tilemap cidade braba_92
+  - first:
+      213: 6073640497852193128
+    second: Tilemap cidade braba_93
+  - first:
+      213: 3638365996172347293
+    second: Tilemap cidade braba_94
+  - first:
+      213: 8452830882418148022
+    second: Tilemap cidade braba_95
+  - first:
+      213: 4033512148837923384
+    second: Tilemap cidade braba_96
+  - first:
+      213: 4637759294074853209
+    second: Tilemap cidade braba_97
+  - first:
+      213: -2404089242945325678
+    second: Tilemap cidade braba_98
+  - first:
+      213: 7187902986772999148
+    second: Tilemap cidade braba_99
+  - first:
+      213: -2660426924458152416
+    second: Tilemap cidade braba_100
+  - first:
+      213: -958714301896377453
+    second: Tilemap cidade braba_101
+  - first:
+      213: -3918121673610545060
+    second: Tilemap cidade braba_102
+  - first:
+      213: -6534646703645269739
+    second: Tilemap cidade braba_103
+  - first:
+      213: 6880739003613508246
+    second: Tilemap cidade braba_104
+  - first:
+      213: 2678196857794862597
+    second: Tilemap cidade braba_105
+  - first:
+      213: 7968256405434940314
+    second: Tilemap cidade braba_106
+  - first:
+      213: -4756067178983142013
+    second: Tilemap cidade braba_107
+  - first:
+      213: 5502529056598566792
+    second: Tilemap cidade braba_108
+  - first:
+      213: 5380205092470977750
+    second: Tilemap cidade braba_109
+  - first:
+      213: 7537796071190033995
+    second: Tilemap cidade braba_110
+  - first:
+      213: -6874283743086380975
+    second: Tilemap cidade braba_111
+  - first:
+      213: 7052296613281405195
+    second: Tilemap cidade braba_112
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilemap cidade braba_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d00e2a516dcfded0800000000000000
+      internalID: -2386963459474587435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d60744c85b89a3e0800000000000000
+      internalID: -2041947742669437224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec7696be1e011850800000000000000
+      internalID: 6345868875016862959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e874a16d5e0f0b7f0800000000000000
+      internalID: -598713880510052466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a892ebb11b182940800000000000000
+      internalID: 5271493126817749154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6d025009a016c70800000000000000
+      internalID: 8962456347121604256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0883440b35056a7a0800000000000000
+      internalID: -6366312702871848832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e010e7b010cfa00800000000000000
+      internalID: 791508783380631198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7177f5ff402239410800000000000000
+      internalID: 1482566107194685207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d33c4a83d01dd20800000000000000
+      internalID: 3301434538772872501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3711848d787a52f30800000000000000
+      internalID: 4550227200418779507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d417320161ec200800000000000000
+      internalID: 202123291848166787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9025fde54e44b90800000000000000
+      internalID: -7258425603289642521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb0fc0fda99cd360800000000000000
+      internalID: 7195795276979702748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c0f74a1acdf7b80800000000000000
+      internalID: -8394748593587680195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a238eeb4743317670800000000000000
+      internalID: 8534659150153417514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4d1033bcdb4d8f0800000000000000
+      internalID: -516579376808995654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c216067bd082daee0800000000000000
+      internalID: -1248297482335526612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aedd2ad42f60f50800000000000000
+      internalID: 6847426698722273915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3261fdac303d075e0800000000000000
+      internalID: -1913797828390480349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e7286958e82c330800000000000000
+      internalID: 3729700145823120970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae08660658104490800000000000000
+      internalID: -7764178999832998236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0607ff08ebe081db0800000000000000
+      internalID: -4821087189729316768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da60282a575cf3ae0800000000000000
+      internalID: -1567317036273367379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959112dbb67e1d160800000000000000
+      internalID: 7048669341732116825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b513cb1f9d3bbd0800000000000000
+      internalID: -2615507326304429292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bcfe01d2d009e70800000000000000
+      internalID: 9119803732634094454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13452b82374f209e0800000000000000
+      internalID: -1656492937477729231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121c91a5e8eaaa4a0800000000000000
+      internalID: -6581255979028332255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1215de4074714b550800000000000000
+      internalID: 6175586582824571169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d26074a50ef5570800000000000000
+      internalID: 8457725303568346489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18662f4b7649f2360800000000000000
+      internalID: 7147094306798593665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c47d63947c0a9540800000000000000
+      internalID: 5015334829859632326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010b0a95160ed33e0800000000000000
+      internalID: -2072253544800407536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79463dc125df1040800000000000000
+      internalID: 4620646083858942334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794c12474bdbc2fd0800000000000000
+      internalID: -2365307121536220009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586d6cc251b2f4b10800000000000000
+      internalID: 1967838932129732229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25271242b7748caf0800000000000000
+      internalID: -375971974672715182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cdae7a023558770800000000000000
+      internalID: 8612381262137187434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8188665cf934470800000000000000
+      internalID: 8377715402016823490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0364b878725062ff0800000000000000
+      internalID: -61355877587007952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62929afdfed4e1800800000000000000
+      internalID: 584990694249670950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08b23211df0207f0800000000000000
+      internalID: -647938005760034806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4011f0cd7f0ede0800000000000000
+      internalID: -1305771367419804445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00857b4bc97ae5530800000000000000
+      internalID: 3845695423309633536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f0b90f6546867d0800000000000000
+      internalID: -2924977633410478181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108166c03064c75a0800000000000000
+      internalID: -6522261181432457215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daef6f7f022c76950800000000000000
+      internalID: 6442331238831685293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c5f945c66054f10800000000000000
+      internalID: 2253214250914765896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2ac4b39bb6dd210800000000000000
+      internalID: 1359361105843757806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663e5b843236114f0800000000000000
+      internalID: -859797050656169114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa52c360943e0d9f0800000000000000
+      internalID: -445606460332956241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aa49e89d9b581b0800000000000000
+      internalID: -5654909413042640381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90c31bbc66704d50800000000000000
+      internalID: 6719500853403959450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap cidade braba_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e745f0da7751724e0800000000000000
+      internalID: -2006611505221512066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tilemap cidade braba_4: 5271493126817749154
+      Tilemap cidade braba_7: 791508783380631198
+      Tilemap cidade braba_12: 4550227200418779507
+      Tilemap cidade braba_0: -2386963459474587435
+      Tilemap cidade braba_38: 1967838932129732229
+      Tilemap cidade braba_43: 584990694249670950
+      Tilemap cidade braba_41: 8377715402016823490
+      Tilemap cidade braba_49: 6442331238831685293
+      Tilemap cidade braba_15: 7195795276979702748
+      Tilemap cidade braba_17: 8534659150153417514
+      Tilemap cidade braba_28: 9119803732634094454
+      Tilemap cidade braba_27: -2615507326304429292
+      Tilemap cidade braba_19: -1248297482335526612
+      Tilemap cidade braba_29: -1656492937477729231
+      Tilemap cidade braba_44: -647938005760034806
+      Tilemap cidade braba_21: -1913797828390480349
+      Tilemap cidade braba_16: -8394748593587680195
+      Tilemap cidade braba_10: 6719500853403959450
+      Tilemap cidade braba_54: -5654909413042640381
+      Tilemap cidade braba_22: 3729700145823120970
+      Tilemap cidade braba_47: -2924977633410478181
+      Tilemap cidade braba_50: 2253214250914765896
+      Tilemap cidade braba_11: -2006611505221512066
+      Tilemap cidade braba_42: -61355877587007952
+      Tilemap cidade braba_26: 7048669341732116825
+      Tilemap cidade braba_33: 7147094306798593665
+      Tilemap cidade braba_30: -6581255979028332255
+      Tilemap cidade braba_32: 8457725303568346489
+      Tilemap cidade braba_1: -2041947742669437224
+      Tilemap cidade braba_5: 8962456347121604256
+      Tilemap cidade braba_13: 202123291848166787
+      Tilemap cidade braba_24: -4821087189729316768
+      Tilemap cidade braba_18: -516579376808995654
+      Tilemap cidade braba_23: -7764178999832998236
+      Tilemap cidade braba_46: 3845695423309633536
+      Tilemap cidade braba_39: -375971974672715182
+      Tilemap cidade braba_34: 5015334829859632326
+      Tilemap cidade braba_48: -6522261181432457215
+      Tilemap cidade braba_25: -1567317036273367379
+      Tilemap cidade braba_35: -2072253544800407536
+      Tilemap cidade braba_40: 8612381262137187434
+      Tilemap cidade braba_9: 3301434538772872501
+      Tilemap cidade braba_36: 4620646083858942334
+      Tilemap cidade braba_52: -859797050656169114
+      Tilemap cidade braba_37: -2365307121536220009
+      Tilemap cidade braba_6: -6366312702871848832
+      Tilemap cidade braba_51: 1359361105843757806
+      Tilemap cidade braba_20: 6847426698722273915
+      Tilemap cidade braba_14: -7258425603289642521
+      Tilemap cidade braba_31: 6175586582824571169
+      Tilemap cidade braba_3: -598713880510052466
+      Tilemap cidade braba_2: 6345868875016862959
+      Tilemap cidade braba_8: 1482566107194685207
+      Tilemap cidade braba_45: -1305771367419804445
+      Tilemap cidade braba_53: -445606460332956241
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

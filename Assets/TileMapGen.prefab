@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6613774343940632600
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6613774343940632614}
+  - component: {fileID: 6613774343940632615}
+  m_Layer: 0
+  m_Name: TileMapGen
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &6613774343940632614
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6613774343940632600}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 58.476017, y: 49.142204, z: 0.9407785}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6613774343940632615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6613774343940632600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68a234a861f93aa4f8f7a5632cd9fb77, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TileMap: {fileID: 0}
+  Ground: {fileID: 11400000, guid: 857db73856c2ccf49b986c6df927cac9, type: 2}
+  ValorInicialRandomicoDePosicaoChao: 0
+  LarguraMaxima: 150
+  AlturaMaxima: 100
+  PosicaoChao: {x: 1, y: 0}
+  Water: {fileID: 11400000, guid: 799b45e0c32823b4091510575806a99e, type: 2}
+  EscalaDeTamanhoDosRios: {x: 200, y: 300}
+  EscalaDeQuantidadeDosRios: {x: 10, y: 100}
+  Grass: {fileID: 11400000, guid: 10f58f4e60b215f4c9d0c120d59641cf, type: 2}
+  EscalaDeTamanhoDasIlhas: {x: 200, y: 300}
+  EscalaDeQuantidadeDasIlhas: {x: 50, y: 90}

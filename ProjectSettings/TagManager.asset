@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water
+  - OC
+  - Inimigo
+  - Xp
+  - CopaArvore
+  - VidaRegen
+  - Estatisticas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obstacle
+  - Xp
+  - Inimigo
+  - Player
+  - RegenVida
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2655289827
+    locked: 0
+  - name: Main
+    uniqueID: 110508493
+    locked: 0
+  - name: High
+    uniqueID: 1836629165
+    locked: 0
